@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "d9c5",
+      "name": "sakshi",
+      "email": "FigmaEditor2@idealake.com",
+      "age": "22"
+    },
+    {
+      "id": "b763",
+      "name": "shreya",
+      "email": "123vinaymaurya@gmail.com",
+      "age": "32"
+    },
+    {
+      "id": "8a78",
+      "name": "set",
+      "email": "FigmaEditor2@idealake.com",
+      "age": "23"
+    },
+    {
+      "id": "fe9a",
+      "name": "sakshi",
+      "email": "sakshi_sen@idealake.com",
+      "age": "23"
+    },
+    {
+      "id": "1858",
+      "name": "reshma",
+      "email": "kiran_poojary@idealake.com",
+      "age": "55"
+    },
+    {
+      "id": "240d",
+      "name": "sakshi",
+      "email": "sakshi_sen@idealake.com",
+      "age": "55"
+    },
+    {
+      "id": "56a3",
+      "name": "priyesh",
+      "email": "123vinaymaurya@gmail.com",
+      "age": "18"
+    },
+    {
+      "id": "6be2",
+      "name": "sanita",
+      "email": "sanita@gmail.com",
+      "age": "19"
+    },
+    {
+      "id": "32e8",
+      "name": "sakshi",
+      "email": "sakshi_sen@idealake.com",
+      "age": "55"
+    }
+  ]
+}
